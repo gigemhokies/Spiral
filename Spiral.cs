@@ -69,11 +69,7 @@ namespace SpiralMatrix
             Environment.Exit(0);
         }
 
-<<<<<<< HEAD
         public void buildMatrix()
-=======
-        private void buildMatrix()
->>>>>>> Solution : Exercise # 3
         {
             for (int i = 0; i < length; i++)
                 for (int j = 0; j < length; j++)
